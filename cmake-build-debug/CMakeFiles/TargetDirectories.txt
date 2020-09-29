@@ -1,0 +1,3 @@
+/home/victorguerraveloso/CLionProjects/ElevadorLotado-URI1611/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/victorguerraveloso/CLionProjects/ElevadorLotado-URI1611/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/victorguerraveloso/CLionProjects/ElevadorLotado-URI1611/cmake-build-debug/CMakeFiles/ElevadorLotado_URI1611.dir

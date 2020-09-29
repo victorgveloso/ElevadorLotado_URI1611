@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ElevadorLotado_URI1611.dir/main.cpp.o  -o ElevadorLotado_URI1611 
